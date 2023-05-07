@@ -111,3 +111,5 @@ window.onload = function () {
     }
 
 };
+
+console.log("Добавил что-то");
