@@ -111,10 +111,7 @@ window.onload = function () {
     }
 
 };
-
-
-console.log("Изменил файл js");
-console.log("Изменил в js что-то");
+// изменение кода в файле js
 
 
 
