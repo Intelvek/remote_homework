@@ -292,15 +292,15 @@ a {
 }
 
 .popup-link {
-    color: white;
+    color: #343;
 }
 
 span, div{
-    color: aqua;
+    color: #636363;
 }
 
 .main{
-    background-color: #f0f;
+    background-color: #ffe;
 }
 
 /*несколько строк в этот файл, зафиксировать их коммитом*/
