@@ -115,3 +115,4 @@ window.onload = function () {
 
 
 
+console.log("Вывод уже другого сообщения из KZ8.1.2")
