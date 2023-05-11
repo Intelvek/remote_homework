@@ -112,4 +112,4 @@ window.onload = function () {
 
 };
 
-console.log("Добавил что-то");
+console.log("Изменил файл js");
