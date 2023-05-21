@@ -111,11 +111,5 @@ window.onload = function () {
     }
 
 };
-// изменение кода в файле js
 
-
-
-// console.log("Вывод уже другого сообщения из KZ8.1.2")
-
-
-console.log('Уже другое сообщение.');
+console.log('second message');
