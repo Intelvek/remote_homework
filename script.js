@@ -111,5 +111,4 @@ window.onload = function () {
     }
 
 };
-
-console.log('second message');
+console.log('msg2')
