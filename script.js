@@ -111,4 +111,3 @@ window.onload = function () {
     }
 
 };
-console.log('msg2')
