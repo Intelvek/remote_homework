@@ -111,7 +111,7 @@ window.onload = function () {
     }
 
 };
-// изменение кода в файле js
+console.log('com for push');
 
 
 
